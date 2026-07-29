@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2Fdetail%3Fid%3Dcom.xinhua.push%26channelId%3DSHARE%26source%3Dappshare" alt="华为应用市场下载二维码" width="240" />
-  <br/><sub><b>鸿蒙 / 华为</b></sub>
+  <br/><sub><b>鸿蒙</b></sub>
 </p>
 
 ### iOS

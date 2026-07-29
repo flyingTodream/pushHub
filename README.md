@@ -1,4 +1,4 @@
-# PushHub · 免费消息推送服务平台（华为 / 鸿蒙 / iOS）
+# PushHub · 免费消息推送服务平台（鸿蒙 / iOS）
 
 > **关键词**：消息推送 · 推送服务 · 华为推送 · 鸿蒙推送 · iOS 推送 · APNs · Push Kit · 免费推送 API · 群组推送 · 自建推送服务 · IM 推送
 
@@ -32,12 +32,12 @@
 
 | 平台 | 链接 |
 |------|------|
-| Android（华为 / 鸿蒙） | [应用市场下载](https://appgallery.huawei.com/app/detail?id=com.xinhua.push&channelId=SHARE&source=appshare) |
+| 鸿蒙 | [应用市场下载](https://appgallery.huawei.com/app/detail?id=com.xinhua.push&channelId=SHARE&source=appshare) |
 | iOS | [App Store 下载](https://apps.apple.com/cn/app/pushhub-%E7%A6%BB%E7%BA%BF%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0/id6785841579) |
 
 <p align="center">
   <a href="https://appgallery.huawei.com/app/detail?id=com.xinhua.push&channelId=SHARE&source=appshare"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2Fdetail%3Fid%3Dcom.xinhua.push%26channelId%3DSHARE%26source%3Dappshare" alt="鸿蒙下载二维码" width="160" /></a>
-  <br/><b>鸿蒙 / 华为</b>
+  <br/><b>鸿蒙</b>
 </p>
 
 <br/>
