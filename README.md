@@ -40,7 +40,7 @@
   <br/><b>鸿蒙 / 华为</b>
 </p>
 
-<p align="center"><br/><br/><br/></p>
+<br/>
 
 <p align="center">
   <a href="https://apps.apple.com/cn/app/pushhub-%E7%A6%BB%E7%BA%BF%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0/id6785841579"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fapps.apple.com%2Fcn%2Fapp%2Fpushhub-%25E7%25A6%25BB%25E7%25BA%25BF%25E9%2580%259A%25E7%259F%25A5%25E5%25B9%25B3%25E5%258F%25B0%2Fid6785841579" alt="iOS 下载二维码" width="160" /></a>
