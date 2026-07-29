@@ -35,7 +35,13 @@
 | Android（华为 / 鸿蒙） | [应用市场下载](https://appgallery.huawei.com/app/detail?id=com.xinhua.push&channelId=SHARE&source=appshare) |
 | iOS | [App Store 下载](https://apps.apple.com/cn/app/pushhub-%E7%A6%BB%E7%BA%BF%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0/id6785841579) |
 
-<div align="center" style="display:flex;justify-content:space-around;align-items:center;flex-wrap:wrap;"><div style="text-align:center;"><img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2Fdetail%3Fid%3Dcom.xinhua.push%26channelId%3DSHARE%26source%3Dappshare" alt="鸿蒙下载二维码" width="200" /><br/><b>鸿蒙 / 华为</b></div><div style="text-align:center;"><img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fapps.apple.com%2Fcn%2Fapp%2Fpushhub-%25E7%25A6%25BB%25E7%25BA%25BF%25E9%2580%259A%25E7%259F%25A5%25E5%25B9%25B3%25E5%258F%25B0%2Fid6785841579" alt="iOS 下载二维码" width="200" /><br/><b>iOS</b></div></div>
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2Fdetail%3Fid%3Dcom.xinhua.push%26channelId%3DSHARE%26source%3Dappshare" alt="鸿蒙下载二维码" width="160" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fapps.apple.com%2Fcn%2Fapp%2Fpushhub-%25E7%25A6%25BB%25E7%25BA%25BF%25E9%2580%259A%25E7%259F%25A5%25E5%25B9%25B3%25E5%258F%25B0%2Fid6785841579" alt="iOS 下载二维码" width="160" />
+  <br/>
+  <b>&nbsp;&nbsp;鸿蒙 / 华为&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS&nbsp;&nbsp;</b>
+</p>
 
 ---
 
